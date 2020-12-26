@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">modern dashboard</string>
+    <string name="my_dashboard">My Dashboard</string>
+    <string name="idea">Idea</string>
+    <string name="food">Food</string>
+    <string name="gym">gym</string>
+</resources>
